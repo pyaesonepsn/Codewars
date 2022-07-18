@@ -16,6 +16,5 @@ Calculate the sum of the numbers in the nth row of this triangle (starting at in
 function rowSumOddNumbers(n) {
     //P: odd number, nth row
     //R: sum of off number at nth row
-    //E: rowSumOddNumbers(2) => 3 + 5 = 8;
     return n*n*n;
 }
